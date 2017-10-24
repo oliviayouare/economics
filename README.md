@@ -1,4 +1,4 @@
-#### 第一章 导言	
+#### 第一章 [经济学原理](http://www.xuetangx.com/courses/course-v1:FudanX+ECON13000701+sp/courseware/52280894fe154e108235409e6dba683c/)	
 - [ ] 第一节 什么是经济学？
 - [ ] 第二节 微观经济学与宏观经济学
 习题 满分 10，获得 0 (0/10)
